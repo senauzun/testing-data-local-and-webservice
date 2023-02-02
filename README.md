@@ -5,7 +5,7 @@ Read data from webservice and also local file. Easy to test data without taking 
 
 Swift:
 - ListView
-- Custom Button
+- Customize ContentView
 - Webservice
 
 
